@@ -1,0 +1,6 @@
+numpy~=2.1.2
+matplotlib~=3.9.2
+serial~=0.0.97
+pyserial~=3.5
+future~=1.0.0
+drawnow~=0.72.5
